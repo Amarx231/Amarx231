@@ -1,8 +1,7 @@
 ![logo](https://github.com/Amarx231/Amarx231/blob/main/WhatsApp%20Image%202026-05-30%20at%2012.35.42%20PM.jpeg)
 # 💫 Hi 👋, I'm Amarnath
 **A passionate AI-ML Engineer || Softwer Engineer ||  from India**
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/7092b626-23a0-42b7-84f6-22dd23146b5b" />
->
+<img align="right" width="400" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgawpa9ji5mj6dy0m3w4z.gif">
 
 Email Me 👉 ✉️ **amarnathmaurya9935@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
