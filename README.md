@@ -3,16 +3,22 @@
 
 Email Me 👉 ✉️ **amarnathmaurya9935@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** no
+- 🔭 **I’m currently working on:** Learning and study
 - 🌱 **I’m currently learning:** c++ and python
 - 👯 **I’m looking to collaborate on:** Nothing
-- 🤔 **I’m looking for help with:** no
+- 🤔 **I’m looking for help with:** No
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** amar sir
+- 📫 **How to reach me:** amarnathmaurya9935@gmail.com
+- 😄 **Pronouns:** Amar sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am.arnath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amarnathmaurya9935@gmail.com) 
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am.arnath)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amarnathmaurya9935@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-nath-2b5592373/)
 <!-- Snake Game Repo View -->
 
 <div align="center">
