@@ -1,3 +1,4 @@
+![logo](https://github.com/Amarx231/Amarx231/blob/main/WhatsApp%20Image%202026-05-30%20at%2012.35.42%20PM.jpeg)
 # 💫 Hi 👋, I'm Amarnath
 **A passionate AI-ML Engineer || Softwer Engineer ||  from India**
 
